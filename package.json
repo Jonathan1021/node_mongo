@@ -1,7 +1,7 @@
 {
   "name": "node-mongo",
   "version": "1.0.0",
-  "description": "Prueba de Conexión a una base de datos Mongo 4.0 con Mongoose",
+  "description": "Prueba de Conexión a una base de datos Mongo 4.0 con Mongoose y Transacciones",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
