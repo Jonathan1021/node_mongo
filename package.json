@@ -1,0 +1,15 @@
+{
+  "name": "node-mongo",
+  "version": "1.0.0",
+  "description": "Prueba de Conexión a una base de datos Mongo 4.0 con Mongoose",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "mongoose": "^5.4.20"
+  }
+}
